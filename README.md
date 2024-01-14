@@ -1,2 +1,2 @@
-# an example of using pipeline for data analysis
-
+# example-pipeline
+This repo is an example pipeline using Makefile.
